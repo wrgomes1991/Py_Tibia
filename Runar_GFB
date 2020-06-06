@@ -1,6 +1,7 @@
 import pyautogui
-
-pyautogui.moveTo(455, 704, duration=0.25)
-pyautogui.click(455, 704)
-pyautogui.typewrite('adori mas flam')
-pyautogui.keyDown('enter')
+import time
+while True:
+    pyautogui.moveTo(455, 704, duration=0.25)
+    pyautogui.click(455, 704)
+    pyautogui.typewrite('adori mas flam'); pyautogui.press('enter')
+    time.sleep(5)
