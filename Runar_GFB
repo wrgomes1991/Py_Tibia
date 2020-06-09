@@ -1,7 +1,441 @@
-import pyautogui
 import time
+import pyautogui
+
 while True:
-    pyautogui.moveTo(455, 704, duration=0.25)
-    pyautogui.click(455, 704)
-    pyautogui.typewrite('adori mas flam'); pyautogui.press('enter')
-    time.sleep(133)
+    for i in range(20):
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=3.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=2.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=2.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+    
+
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+
+        time.sleep(5)
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=3.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=2.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=2.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+    
+
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+
+        pyautogui.typewrite('adori mas flam'); pyautogui.press('enter')
+
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=3.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=2.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=2.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1073, 668, duration=1.05)
+        pyautogui.click(1073, 668, button='left')
+    
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1373, 304, duration=1.05)
+        pyautogui.click(1373, 304, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1374, 718, duration=1.05)
+        pyautogui.click(1374, 718, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(711, 670, duration=1.05)
+        pyautogui.click(711, 670, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1446, 143, duration=1.05)
+        pyautogui.click(1446, 143, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1321, 781, duration=1.05)
+        pyautogui.click(1321, 781, button='left')
+
+    
+
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+        pyautogui.moveTo(649, 905, duration=2.00)
+        pyautogui.click(649, 905, button='left')
+
+    
+    
+        time.sleep(310)
+
+    
+
+    
+
+
+ 
