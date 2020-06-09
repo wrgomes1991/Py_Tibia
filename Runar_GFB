@@ -420,6 +420,21 @@ while True:
         pyautogui.moveTo(1321, 781, duration=1.05)
         pyautogui.click(1321, 781, button='left')
 
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(715, 672, duration=1.05)
+        pyautogui.click(715, 672, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1449, 145, duration=1.05)
+        pyautogui.click(1449, 145, button='left')
+
+        pyautogui.moveTo(605, 897, duration=1.10)
+        pyautogui.click(605, 897, button='left')
+        pyautogui.moveTo(1323, 784, duration=1.05)
+        pyautogui.click(1323, 784, button='left')
+
     
 
         pyautogui.moveTo(649, 905, duration=2.00)
