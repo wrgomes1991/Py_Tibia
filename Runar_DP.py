@@ -1,3 +1,5 @@
+#Runar GFB no DP, food na hotkey F11
+
 import pyautogui
 import time
 #screenWidth, screenHeight = pyautogui.size()
