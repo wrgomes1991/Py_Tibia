@@ -1,3 +1,5 @@
+#GFB com Ring of Healing, Food na hotkey F11, Ring of healing na hotkey F10.
+
 import pyautogui
 import time
 
