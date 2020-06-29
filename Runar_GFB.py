@@ -1,3 +1,6 @@
+
+#Runar GFB pescando, precisa de adaptações no código
+
 import time
 import pyautogui
 
