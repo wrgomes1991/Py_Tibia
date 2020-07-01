@@ -18,3 +18,5 @@ print('Boa escolha, lembre de ajustar o tempo de recarga da mana para,', values[
 
 
 
+
+
